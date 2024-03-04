@@ -8,15 +8,11 @@ Bomberman is a classic video game where players strategically place bombs to des
 
 ## Goal
 
-Create the backend for an online Bomberman game with REST endpoints. The project will be tested for architectural compliance and proper API responses.
+Create the backend for a Bomberman game with REST endpoints.
 
 ## Frameworks
 
 Utilizes Quarkus for lightweight ease of use and Hibernate for ORM.
-
-## Architecture
-
-Follow the provided architecture pattern in the project files.
 
 ## How to Start
 
